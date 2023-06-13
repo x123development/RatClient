@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39830989-c3f7-4328-9d84-193e00cf555f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="39830989-c3f7-4328-9d84-193e00cf555f" name="Changes" comment="added some try-catches for stability">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/modules/SimpleDisplay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/modules/SimpleDisplay.kt" afterDir="false" />
     </list>
@@ -65,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686520780893</updated>
     </task>
+    <task id="LOCAL-00001" summary="added some try-catches for stability">
+      <created>1686650068072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686650068072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added some try-catches for stability" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some try-catches for stability" />
   </component>
 </project>
