@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39830989-c3f7-4328-9d84-193e00cf555f" name="Changes" comment="added some try-catches for stability">
+    <list default="true" id="39830989-c3f7-4328-9d84-193e00cf555f" name="Changes" comment="some extra images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/modules/SimpleDisplay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/modules/SimpleDisplay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/x123dev/ratclient/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686650068072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some extra images">
+      <created>1686654654179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686654654179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added some try-catches for stability" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some try-catches for stability" />
+    <MESSAGE value="some extra images" />
+    <option name="LAST_COMMIT_MESSAGE" value="some extra images" />
   </component>
 </project>
