@@ -12,7 +12,11 @@ import javax.imageio.ImageIO
 import javax.swing.*
 
 fun displayInfoDialog(msg:String){
-    infoThread(msg).start()
+    try{
+        infoThread(msg).start()
+    }catch(e:Exception){
+        e.printStackTrace()
+    }
 }
 
 fun browseWebsite(url:String){
@@ -36,7 +40,11 @@ fun fullScreenImage(title:String){
 }
 
 fun fullScreenImageFromURL(title:String){
-    imageThread(title).start()
+    try{
+        imageThread(title).start()
+    }catch(e:Exception){
+        e.printStackTrace()
+    }
 }
 
 class infoThread(var msg:String) : Thread(){
